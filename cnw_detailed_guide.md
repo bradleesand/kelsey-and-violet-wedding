@@ -1,3 +1,8 @@
+---
+title: Detailed Guide to Critical Northwest
+description: Everything you need to know about attending Critical Northwest
+---
+
 # Detailed Guide to Critical Northwest
 
 This guide is designed to help first-time attendees prepare for Critical Northwest. For specific information about our wedding at Critical Northwest, please refer to the [main wedding page](./index.html).

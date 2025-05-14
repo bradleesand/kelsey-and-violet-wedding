@@ -1,3 +1,15 @@
 theme: jekyll-theme-cayman
 title: Violet & Kelsey's Wedding
 description: Join us for our wedding at Critical Northwest 2025!
+
+# Hide the GitHub links
+github:
+  is_project_page: false
+
+# Show title on all pages
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"

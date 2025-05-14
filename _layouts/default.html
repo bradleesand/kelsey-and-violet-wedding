@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+
+{% seo %}
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <style>
+      /* Custom styles */
+      .page-header {
+        background-image: linear-gradient(120deg, #d48872, #5aa3c8);
+        background-color: #d48872;
+      }
+      
+      .nav-menu {
+        text-align: center;
+        margin-top: 1rem;
+      }
+      
+      .nav-link {
+        display: inline-block;
+        margin: 0 1rem;
+        color: white;
+        background-color: rgba(255, 255, 255, 0.1);
+        padding: 0.5rem 1rem;
+        border-radius: 4px;
+        transition: background-color 0.3s ease;
+        text-decoration: none;
+      }
+      
+      .nav-link:hover {
+        background-color: rgba(255, 255, 255, 0.2);
+        text-decoration: none;
+      }
+      
+      .wedding-date {
+        font-size: 1.5rem;
+        margin-top: 0.5rem;
+      }
+      
+      .site-footer {
+        text-align: center;
+      }
+    </style>
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+
+    <header class="page-header" role="banner">
+      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <p class="wedding-date">July 14-20, 2025</p>
+      
+      <div class="nav-menu">
+        <a href="{{ '/' | absolute_url }}" class="nav-link">Wedding Details</a>
+        <a href="{{ '/cnw_detailed_guide.html' | absolute_url }}" class="nav-link">Critical Northwest Guide</a>
+      </div>
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+      <footer class="site-footer">
+        <p>With love, Violet & Kelsey</p>
+        <p>Contact us: <a href="mailto:peacock.and.spoons@gmail.com">peacock.and.spoons@gmail.com</a></p>
+      </footer>
+    </main>
+  </body>
+</html>
