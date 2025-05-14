@@ -11,6 +11,19 @@ body {
   line-height: 1.6;
 }
 
+// Color variables
+$primary-purple: #9b59b6;
+$primary-pink: #e91e63;
+$accent-purple: #8e44ad;
+
+a {
+  color: $accent-purple;
+  
+  &:hover {
+    color: $primary-pink;
+  }
+}
+
 // Header improvements
 .page-header {
   padding: 3rem 6rem;
@@ -46,7 +59,7 @@ body {
 // Content styling
 .main-content {
   h1, h2, h3, h4, h5, h6 {
-    color: #d3725b;
+    color: #9b59b6;
     margin-top: 2rem;
     margin-bottom: 1rem;
   }
@@ -63,7 +76,18 @@ body {
 
 // Footer styling
 .site-footer {
-  border-top: solid 1px #eff0f1;
-  margin-top: 2rem;
+  position: relative;
+  margin-top: 4rem;
   padding-top: 2rem;
+  
+  &::before {
+    content: "";
+    position: absolute;
+    top: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60%;
+    height: 2px;
+    background: linear-gradient(to right, transparent, $primary-purple, $primary-pink, transparent);
+  }
 }

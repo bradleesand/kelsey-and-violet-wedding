@@ -7,14 +7,14 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
+    <meta name="theme-color" content="{{ site.theme-color | default: '#9b59b6' }}">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <style>
       /* Custom styles */
       .page-header {
-        background-image: linear-gradient(120deg, #d48872, #5aa3c8);
-        background-color: #d48872;
+        background-image: linear-gradient(120deg, #9b59b6, #e91e63);
+        background-color: #9b59b6;
       }
       
       .nav-menu {
@@ -26,16 +26,19 @@
         display: inline-block;
         margin: 0 1rem;
         color: white;
-        background-color: rgba(255, 255, 255, 0.1);
+        background-color: rgba(233, 30, 99, 0.3);
         padding: 0.5rem 1rem;
         border-radius: 4px;
-        transition: background-color 0.3s ease;
+        transition: all 0.3s ease;
         text-decoration: none;
+        border: 1px solid rgba(255, 255, 255, 0.6);
       }
       
       .nav-link:hover {
         background-color: rgba(255, 255, 255, 0.2);
         text-decoration: none;
+        transform: translateY(-2px);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
       }
       
       .wedding-date {
