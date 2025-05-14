@@ -1,4 +1,4 @@
-# Violet & Kelsey's Wedding at Critical Northwest
+# Violet & Kelsey's Critical Northwest Ceremony
 
 > **Our Main Wedding Website**: This page is specifically for our Critical Northwest ceremony. For our default world reception, RSVP, and other details, please visit our main wedding website: [**withjoy.com/kelsey-and-violet**](https://withjoy.com/kelsey-and-violet)
 

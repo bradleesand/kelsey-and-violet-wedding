@@ -45,7 +45,7 @@ Tickets cost around $200 based on past events and will be available at: [https:/
 
 To purchase tickets, you must first become an INW Firestarter member:
 
-1. Sign up for free [INW Firestarter membership](https://ignitionnw.app.neoncrm.com/np/clients/ignitionnw/membershipJoin.jsp). For questions regarding involvement in regional or global Burning Man events, just state that you interested in becoming involved in the community.
+1. Sign up for free [INW Firestarter membership](https://ignitionnw.app.neoncrm.com/np/clients/ignitionnw/membershipJoin.jsp). For questions regarding involvement in regional or global Burning Man events, just state that you are interested in becoming involved in the community.
 2. Mark your calendar for the ticket sales (make sure to be online right at 7 PM PT as tickets can sell out quickly)
 3. Use the link above to purchase your tickets during the sale
 
@@ -62,7 +62,7 @@ More information on discounted tickets can be found at [https://criticalnw.org/d
 ### Before the Event
 - [ ] Sign up for INW Firestarter membership
 - [ ] Get your ticket
-- [ ] Plan your transportation to/from the event. Parking passes are required to park onsite, are available for purchase during the Main Sale and are limited.
+- [ ] Plan your transportation to/from the event. Parking passes are required to park onsite, available for purchase during the Main Sale, and are limited.
 - [ ] Plan your shelter. Tents are recommended as RV camping spots are very limited and require specific RV camping passes.
 - [ ] Gather supplies (see packing lists below)
 - [ ] Prepare for a week without cell service
@@ -79,7 +79,7 @@ More information on discounted tickets can be found at [https://criticalnw.org/d
 ### Absolute Must-Haves
 - **Cup/Mug:** Your own cup for drinks (attach it to yourself with a carabiner)
 - **Shelter:** Tent, shade structure, sleeping bag, pillow, sleeping pad
-- **Food & Water:** Enough food for 7 days, water containers (both for drinking and gray water. Please plan to pack out all greywater; there is no greywater dumping allowed anywhere on site.)
+- **Food & Water:** Enough food for 7 days, water containers (both for drinking and grey water. Please plan to pack out all greywater; there is no greywater dumping allowed anywhere on site.)
 - **Clothing:** For all weather (hot, cold, rain), extra socks, sturdy shoes, river footwear
 - **Personal:** Medications, toiletries, sunscreen, bug spray, hand sanitizer
 - **Light:** Headlamp, flashlight, and extra batteries (critical for nighttime navigation)
@@ -93,7 +93,7 @@ More information on discounted tickets can be found at [https://criticalnw.org/d
 - **River gear:** Float, towel, water shoes
 - **Warm clothes for night:** Even in July, nights can get chilly
 - **Ear plugs:** For sleeping (some areas have sound camps)
-- **Wet wipes & hand sanitizer:** For staying clean. There are no showers on site. You can bring your own camp shower but you have to collect any greywater.
+- **Wet wipes & hand sanitizer:** For staying clean. There are no showers on site. You can bring your own camp shower, but you have to collect any greywater.
 - **Portable ashtray:** If you smoke
 - **Trash & recycling bags:** Remember, you pack it out!
 
@@ -115,7 +115,7 @@ If you do have connections with another theme camp, you might be able to join th
 - **ThunderCarts:** Transportation assistance if you need help getting around
 - **Rangers:** Safety personnel (look for khaki pants/green shirts) - they can help with problems
 - **Medical:** First aid services available 24/7
-- **Water:** There is often potable water on site but it is not guaranteed and subject to the Mason's discretion. We strongly recommend bringing all the water that you will need for the entire week (drinking, cooking, cleaning)
+- **Water:** There is often potable water on site, but it is not guaranteed and is subject to the Masons' discretion. We strongly recommend bringing all the water that you will need for the entire week (drinking, cooking, cleaning)
 - **Ice:** Available for purchase at the HUB
 - **Portas:** Portable toilets (they usually have toilet paper and are cleaned daily, but bring some one-ply just in case they run out)
 
