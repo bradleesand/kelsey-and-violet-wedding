@@ -25,7 +25,7 @@ The 2025 theme is "Community Garden" which celebrates creative expression, art, 
 
 **Location:** Masonic Family Park, 24310 Mountain Loop Hwy, Granite Falls, WA 98252 (approximately 1 hour from Seattle)
 
-**Work Weekends:** Volunteer opportunities to help prepare the site on May 17-18 and June 14-15, 2025
+**Work Weekends:** Volunteer opportunities to help prepare the site on May 17-18 and June 14-15, 2025. [Learn more about work weekends](https://criticalnw.org/volunteer-for-the-work-weekends/)
 
 The site features:
 - Beautiful forest setting
