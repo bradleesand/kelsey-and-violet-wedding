@@ -5,7 +5,7 @@ description: Everything you need to know about attending Critical Northwest
 
 # Detailed Guide to Critical Northwest
 
-This guide is designed to help first-time attendees prepare for Critical Northwest. For specific information about our wedding at Critical Northwest, please refer to the [main wedding page](./index.html).
+This guide is designed to help first-time attendees prepare for Critical Northwest. For information about our ceremony at Critical Northwest, please refer to the [ceremony details page](./index.html). For our default world reception, RSVP, and other details, please visit our [main wedding website](https://withjoy.com/kelsey-and-violet).
 
 ## What is Critical Northwest?
 

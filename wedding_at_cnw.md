@@ -1,5 +1,7 @@
 # Violet & Kelsey's Wedding at Critical Northwest
 
+> **Our Main Wedding Website**: This page is specifically for our Critical Northwest ceremony. For our default world reception, RSVP, and other details, please visit our main wedding website: [**withjoy.com/kelsey-and-violet**](https://withjoy.com/kelsey-and-violet)
+
 ## Our Wedding Celebration
 
 We (Violet and Kelsey) are excited to celebrate our marriage at Critical Northwest! The ceremony will take place on Tuesday or Wednesday (exact day to be determined) during the event, likely at our theme camp, Gravity Well. We're delighted to share this special moment with our friends and family in a place that means so much to us.
