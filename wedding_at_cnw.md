@@ -45,6 +45,13 @@ Tickets cost around $200 based on past events and will be available at: [https:/
 
 **Note:** If you're concerned about getting tickets, please let us know. We have connections in the community and can often help friends find tickets even after the initial sale.
 
+### Digital Event Waiver
+
+After buying your ticket, make sure to sign the digital waiver:
+[https://waiver.smartwaiver.com/w/qusgufmws7kcbmfmkkpafy/web/](https://waiver.smartwaiver.com/w/qusgufmws7kcbmfmkkpafy/web/)
+
+This online Waiver & Release with Photo/Video Personal Use Agreement reduces paper waste and speeds up your entry into the event. If you have not signed the waiver before arriving, you will be able to sign it at the gate.
+
 ### Essential Packing List
 
 The absolute essentials for Critical Northwest:

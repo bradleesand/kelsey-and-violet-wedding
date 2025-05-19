@@ -62,6 +62,7 @@ More information on discounted tickets can be found at [https://criticalnw.org/d
 ### Before the Event
 - [ ] Sign up for INW Firestarter membership
 - [ ] Get your ticket
+- [ ] Sign the digital waiver after buying your ticket: [https://waiver.smartwaiver.com/w/qusgufmws7kcbmfmkkpafy/web/](https://waiver.smartwaiver.com/w/qusgufmws7kcbmfmkkpafy/web/)
 - [ ] Plan your transportation to/from the event. Parking passes are required to park onsite, available for purchase during the Main Sale, and are limited.
 - [ ] Plan your shelter. Tents are recommended as RV camping spots are very limited and require specific RV camping passes.
 - [ ] Gather supplies (see packing lists below)
@@ -70,7 +71,7 @@ More information on discounted tickets can be found at [https://criticalnw.org/d
 
 ### For Arrival
 - [ ] Your legal ID
-- [ ] Your ticket
+- [ ] Your ticket (signing the digital waiver online beforehand will speed up your entry, but you can also sign it at the gate if needed)
 - [ ] Any vehicle/RV passes you've purchased
 - [ ] In/out pass if you'll need to leave and return. Critical NW has a no re-entry policy unless an in/out pass is acquired. These are usually reserved for medical conditions/child-care needs.
 
