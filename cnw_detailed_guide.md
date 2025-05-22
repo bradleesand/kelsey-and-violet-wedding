@@ -78,7 +78,7 @@ More information on discounted tickets can be found at [https://criticalnw.org/d
 ## Packing Essentials
 
 ### Absolute Must-Haves
-- **Cup/Mug:** Your own cup for drinks (attach it to yourself with a carabiner)
+- **Cup/Mug:** Your own cup for drinks and/or food as you explore (attach it to yourself with a carabiner)
 - **Shelter:** Tent, shade structure, sleeping bag, pillow, sleeping pad
 - **Food & Water:** Enough food for 7 days, water containers (both for drinking and grey water. Please plan to pack out all greywater; there is no greywater dumping allowed anywhere on site.)
 - **Clothing:** For all weather (hot, cold, rain), extra socks, sturdy shoes, river footwear
@@ -87,6 +87,7 @@ More information on discounted tickets can be found at [https://criticalnw.org/d
 - **Cash:** For ice ($5/bag), the only thing sold on site
 
 ### Highly Recommended
+- **Water bottle:** Stay hydrated!
 - **First aid kit:** Basic supplies for minor injuries
 - **Shade structure:** The sun can be intense
 - **Camp chair:** For relaxing at your camp and around the event
