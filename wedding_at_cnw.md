@@ -4,16 +4,21 @@
 
 ## Our Wedding Celebration
 
-We (Violet and Kelsey) are excited to celebrate our marriage at Critical Northwest! The ceremony will take place on Tuesday or Wednesday (exact day to be determined) during the event, likely at our theme camp, Gravity Well. We're delighted to share this special moment with our friends and family in a place that means so much to us.
+We (Violet and Kelsey) are excited to celebrate our marriage at Critical Northwest! The ceremony will take place on Tuesday during the event at our theme camp, Gravity Well. We're delighted to share this special moment with our friends and family in a place that means so much to us.
 
 ### Wedding Details
 
-- **Date:** During Critical Northwest, July 14-20, 2025 (specific date TBD)
-- **Location:** At our theme camp, Gravity Well (we'll provide exact location details closer to the event)
+- **Date:** Tuesday, July 15, 2025
+- **Schedule:** 
+  - **7:00 PM:** "Make-Each-Other-Cry" Wedding Ceremony at Gravity Well
+  - **8:00 PM:** "Just Married Critical Crawl" departing from Gravity Well
+- **Location:** Gravity Well theme camp
 - **Dress Code:** Whatever makes you comfortable! Creative expression is welcomed.
 - **Gifts:** Your presence is the only gift we need. This is a decommodified event.
 
-We'll provide more specific details about the ceremony as the event approaches.
+### Just Married Critical Crawl
+
+Do you love love? Do you like pretending you just got married? Join Peacock and Spoons as they pretend that this isn't the third wedding-type thing they've done in the last 8 months! We'll depart Gravity Well to embark on a newlywed crawl. Dress in your wedding best!
 
 ### About Gravity Well
 
